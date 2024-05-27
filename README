@@ -1,5 +1,11 @@
 *All you need is a VSCODE or a bash terminal
-
 Enter node web.js, in the directory where you unzip the files of directory,
 
-ENJOY!!!!!!!!!!!!
+This project uses -->
+1) Bash - for terminal
+2) npm - to install some functionalities like faker,express 
+3) Html,css and Js for front end
+4) Js packages like Express for Weapp module to run on npm node,faker initially i used to create dummy tables and users but this implementation i havent used it
+   Express - for Weappfunctionality
+5) For Backend we used MYSQL to store the no of users taking this quiz which will be displayed at the home page.
+
